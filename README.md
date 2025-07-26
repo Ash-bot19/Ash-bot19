@@ -4,18 +4,19 @@
 
 ##### About me:
 
-- 🎓Final year computer science student at Manipal Institute of Technology
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+- 🎓 Final year computer science student at Manipal Institute of Technology  
+- 🧠 Passionate about building real-world solutions using Machine Learning and Reinforcement Learning   
+- 🔐 Exploring the intersection of cybersecurity and cyber-physical systems through research and hands-on projects  
+- 🕹️ Developed immersive VR arcade experiences and 3D product animations using Unity and Blender  
+- 📊 Worked on data analytics dashboards using Excel, Power BI & Python, with interest in the financial domain  
+- 🔧 Comfortable with electronics & embedded systems — including CAN protocols and Moku:Go instrumentation  
+- 🤖 Currently diving deep into Generative AI and Large Language Models, aiming to build smart and creative applications  
+- 📫 You can reach me with the links below  
 
 ##### Connect with me:
 
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ayushsam3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ayushsam3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-samantaray-37a133205)
 
 ##### Languages I use
 
@@ -39,15 +40,9 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-222222?style=flat&logo=davinciresolve&logoColor=233A51)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
 
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
----
-
-⭐️ From [Ayush](https://github.com/adamalston)
