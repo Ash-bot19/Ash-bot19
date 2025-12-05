@@ -1,16 +1,22 @@
 # Hi there! 👋 I'm Ayush
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Final+Year+CS+Student;Budding+Data+Analyst;AI%2FML+Enthusiast;GenAI+Explorer;3D+Artist;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=12D6E3&width=650&lines=Final+Year+CS+Student+🎓;Budding+Data+Analyst+📊;AI/ML+Enthusiast+🤖;GenAI+Explorer+🚀;3D+Artist+🎨;Always+Learning+🌟" />
+
+
+
+
+
 
 ##### About me:
 
-- 🎓 Final year computer science student at Manipal Institute of Technology  
-- 🧠 Passionate about building real-world solutions using Machine Learning and Reinforcement Learning   
-- 🔐 Exploring the intersection of cybersecurity and cyber-physical systems through research and hands-on projects  
-- 🕹️ Developed immersive VR arcade experiences and 3D product animations using Unity and Blender  
-- 📊 Worked on data analytics dashboards using Excel, Power BI & Python, with interest in the financial domain  
-- 🔧 Comfortable with electronics & embedded systems — including CAN protocols and Moku:Go instrumentation  
-- 🤖 Currently diving deep into Generative AI and Large Language Models, aiming to build smart and creative applications  
+## About me
+- 🎓 Final-year Computer Science student — Manipal Institute of Technology  
+- 🧠 I build real-world ML & RL solutions, and explore GenAI and LLMs  
+- 🔐 Research & hands-on interest in cybersecurity and cyber-physical systems  
+- 🕹️ Built immersive VR arcade experiences (Unity) and 3D product animations (Blender)  
+- 📊 Experience with data analytics (Python, SQL, Power BI) and finance-focused analysis  
+- ⚙️ Comfortable with embedded systems, CAN protocols, and instrumentation (Moku:Go)  
+- ✨ Always learning — currently deep-diving into generative models and data engineering
 - 📫 You can reach me with the links below  
 
 ##### Connect with me:
@@ -21,23 +27,56 @@
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+## Languages I Use
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-222222?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender&logoColor=F5792A)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-222222?style=flat&logo=davinciresolve&logoColor=233A51)
+## Technologies & Tools I Work With
+
+### Data Engineering / Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FE5E00?logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### Machine Learning / AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-000000?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+### Data Analytics & Finance
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+### Game Dev / 3D / Creative Tools
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?logo=davinciresolve&logoColor=white)
+
+### Version Control & Productivity
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 
