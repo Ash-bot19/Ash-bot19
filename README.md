@@ -27,8 +27,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 
-##### Some of the technologies I have worked with
-
 ## Technologies & Tools I Work With
 
 ### Data Engineering / Cloud
