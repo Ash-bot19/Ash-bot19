@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ayush
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=12D6E3&width=650&lines=Final+Year+CS+Student+🎓;Budding+Data+Analyst+📊;AI/ML+Enthusiast+🤖;GenAI+Explorer+🚀;3D+Artist+🎨;Always+Learning+🌟" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=12D6E3&width=650&lines=Final+Year+CS+Student+🎓;Budding+Data+Engineer+⚙️;AI/ML+Enthusiast+🤖;GenAI+Explorer+🚀;3D+Artist+🎨;Always+Learning+🌟" />
 
 
 ## About me
